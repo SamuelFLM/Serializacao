@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sutt9+Tarjwa3VvVPmoYzVvDGuDFdFolN8o9nbGDM3bLDWSmN1FxSxUy90QZpRCutW602/0V3Avhfm1hZLlGyA==",
+  "dgSpecHash": "lB1CZldSqF/ymBoGQxMTinc4CohFo+h3pzvJVpfKZkrUnTiHAUaM/17LAOjY5gsUgs4TSwTTyKIuSXLVnvys3w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lazer\\OneDrive\\Área de Trabalho\\Serializacao\\Serializacao.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Lazer\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
