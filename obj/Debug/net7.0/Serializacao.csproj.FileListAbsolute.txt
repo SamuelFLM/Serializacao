@@ -1,0 +1,17 @@
+C:\Users\Lazer\OneDrive\Área de Trabalho\Serializacao\bin\Debug\net7.0\Serializacao.exe
+C:\Users\Lazer\OneDrive\Área de Trabalho\Serializacao\bin\Debug\net7.0\Serializacao.deps.json
+C:\Users\Lazer\OneDrive\Área de Trabalho\Serializacao\bin\Debug\net7.0\Serializacao.runtimeconfig.json
+C:\Users\Lazer\OneDrive\Área de Trabalho\Serializacao\bin\Debug\net7.0\Serializacao.dll
+C:\Users\Lazer\OneDrive\Área de Trabalho\Serializacao\bin\Debug\net7.0\Serializacao.pdb
+C:\Users\Lazer\OneDrive\Área de Trabalho\Serializacao\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Lazer\OneDrive\Área de Trabalho\Serializacao\obj\Debug\net7.0\Serializacao.csproj.AssemblyReference.cache
+C:\Users\Lazer\OneDrive\Área de Trabalho\Serializacao\obj\Debug\net7.0\Serializacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lazer\OneDrive\Área de Trabalho\Serializacao\obj\Debug\net7.0\Serializacao.AssemblyInfoInputs.cache
+C:\Users\Lazer\OneDrive\Área de Trabalho\Serializacao\obj\Debug\net7.0\Serializacao.AssemblyInfo.cs
+C:\Users\Lazer\OneDrive\Área de Trabalho\Serializacao\obj\Debug\net7.0\Serializacao.csproj.CoreCompileInputs.cache
+C:\Users\Lazer\OneDrive\Área de Trabalho\Serializacao\obj\Debug\net7.0\Serializacao.csproj.CopyComplete
+C:\Users\Lazer\OneDrive\Área de Trabalho\Serializacao\obj\Debug\net7.0\Serializacao.dll
+C:\Users\Lazer\OneDrive\Área de Trabalho\Serializacao\obj\Debug\net7.0\refint\Serializacao.dll
+C:\Users\Lazer\OneDrive\Área de Trabalho\Serializacao\obj\Debug\net7.0\Serializacao.pdb
+C:\Users\Lazer\OneDrive\Área de Trabalho\Serializacao\obj\Debug\net7.0\Serializacao.genruntimeconfig.cache
+C:\Users\Lazer\OneDrive\Área de Trabalho\Serializacao\obj\Debug\net7.0\ref\Serializacao.dll

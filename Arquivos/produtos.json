@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Nome_Produto": "Sistema ERP",
+    "Preco": 2000.50,
+    "DataVenda": "2023-09-14T11:48:48.7119578-03:00"
+  },
+  {
+    "Id": 2,
+    "Nome_Produto": "Licença Visual Studio",
+    "Preco": 150.50,
+    "DataVenda": "2023-09-14T11:48:48.7119578-03:00"
+  }
+]
