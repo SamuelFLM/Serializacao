@@ -14,4 +14,3 @@ string serializado = JsonConvert.SerializeObject(produtos, Formatting.Indented);
 
 File.WriteAllText("Arquivos/produtos.json", serializado);
 
-Console.WriteLine(serializado);
