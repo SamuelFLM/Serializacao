@@ -12,7 +12,7 @@ Aqui está um exemplo simples de como você pode serializar um objeto em C# usan
 Neste exemplo, criamos uma classe Produtos com quatro propriedades, Id, Nome Produto, Preço e Data de venda. Em seguida, criamos uma instância dessa classe e a serializamos para JSON usando o método JsonConvert.SerializeObject(). O resultado será uma string JSON que representa o objeto exemplo.
 </p>
 
-<img src="Image/code.png" alt="logo_samuelflm">
+<img src="Image/code1.png" alt="logo_samuelflm">
 
 > Resultado do JSON
 > 
